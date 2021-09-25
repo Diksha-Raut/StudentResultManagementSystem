@@ -4,10 +4,10 @@
 ## Web Development Intern
 
 ### Task : 3  -  Advance Level Task
-### To Create Single Page Website
 
 
-## Student Result Management System
+
+### Student Result Management System
 
 Stack used - Front-end : HTML, CSS, Bootstrap & Javascript Back-end : PHP Database : MySQL
 ## What will be covered in this Repo:
