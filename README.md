@@ -3,13 +3,17 @@
 ## Virtual Internship Program
 ## Web Development Intern
 
-### Task : 1  -  Advance Level Task
+### Task : 3  -  Advance Level Task
 ### To Create Single Page Website
 
 
 ## Student Result Management System
 
 Stack used - Front-end : HTML, CSS, Bootstrap & Javascript Back-end : PHP Database : MySQL
+## What will be covered in this Repo:
+
+
+In this project, we are going to create a student result management system with the features like Add class, Add student, Manage student, Manage result etc.
 
 ## Getting Started:
 
