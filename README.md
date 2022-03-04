@@ -19,7 +19,7 @@ In this project, we are going to create a student result management system with 
 
 First, fork the repository and clone it to your computer.
 
-Secondly, import the database from datbaase folder to your PHPMyAdmin Dashboard and configure the config.sql file from Backend Folder.
+Secondly, import the database from datbaase folder to your PHPMyAdmin Dashboard and configure the config.php file from Backend Folder.
 
 
 <b>LICENSE:</b>
